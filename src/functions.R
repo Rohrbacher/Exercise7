@@ -5,3 +5,8 @@ addTwo <- function(x){
   x <- x+2
   return(x)
 }
+
+addFour <- function(x){
+  x <- x+4
+  return(x)
+}
